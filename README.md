@@ -14,3 +14,6 @@ set SECRET_BISECT_PORT=21
 set SECRET_BISECT_USER="ultimadj.12345"
 set SECRET_BISECT_PASS="NotARealPassword"
 ```
+
+### Worlds
+- docs/handy.md
