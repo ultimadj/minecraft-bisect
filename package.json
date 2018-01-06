@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backup": "node app/backup.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/ultimadj/minecraft-bisect#readme",
   "dependencies": {
+    "dateformat": "^3.0.2",
     "ftp-client": "^0.2.2"
   }
 }
