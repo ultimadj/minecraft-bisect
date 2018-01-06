@@ -1,0 +1,25 @@
+{
+  "name": "minecraft-bisect",
+  "version": "1.0.0",
+  "description": "Tools for interacting with minecraft servers on bisect hosting",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultimadj/minecraft-bisect.git"
+  },
+  "author": "David Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultimadj/minecraft-bisect/issues"
+  },
+  "homepage": "https://github.com/ultimadj/minecraft-bisect#readme",
+  "dependencies": {
+    "ftp-client": "^0.2.2"
+  }
+}
