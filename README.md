@@ -1,7 +1,8 @@
 # minecraft-bisect
-Handy scripts for working with minecraft servers in bisect.
+Scripts for working with minecraft servers on bisect hosting.
 
 ### Required Tools
-- nodejs
-
-### Server Backup
+- Chocolatey
+  - wget
+  - git
+- Git bash
